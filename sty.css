@@ -1,0 +1,61 @@
+body{
+    background-color: #fcf;
+}
+.head{
+    text-align: center;
+    background-color: #6D11AA;
+    width:100%;
+    color:#fcf;
+    border: none;
+}
+
+.project{
+    background-color: #5b3375;
+    border: none;
+}
+
+.pjtxt{
+    width: calc(100% - 40px); /* 設定寬度，減去兩邊的空間 */
+    margin: 20px auto;
+    color:#fcf;
+    border: none;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+.pages {
+    padding: 10px 20px;
+    background-color: #b434db;
+    color: #fcf;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.pages:hover {
+    background-color: #cf6ad3;
+}
+
+.github {
+    padding: 10px 20px;
+    color: #fcf;
+    border: 2px solid #b434db;
+    border-radius: 5px;
+    cursor: pointer;
+    background:none;
+}
+.github:hover {
+    border: 2px solid #cf6ad3;
+}
+
+.txt{
+    text-align: center;
+    width:100%;
+    border: none;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
