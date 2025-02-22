@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
     console.log("看我幹什麼"); 
-    
+    $('h5').hide()
     $('.pages').on('click', function() {
         var Name = $(this).data('name');
         window.open(`https://mamegoodbean2k.github.io/${Name}`);
