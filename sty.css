@@ -1,23 +1,23 @@
 body{
-    background-color: #fcf;
+    background-color: rgb(255, 204, 204);
 }
 .head{
     text-align: center;
-    background-color: #6D11AA;
+    background-color: #ff7575;
     width:100%;
     color:#fcf;
     border: none;
 }
 
 .project{
-    background-color: #5b3375;
+    background-color: #ffbaba;
     border: none;
 }
 
 .pjtxt{
     width: calc(100% - 40px); /* 設定寬度，減去兩邊的空間 */
     margin: 20px auto;
-    color:#fcf;
+    color:rgb(70, 0, 0);
     border: none;
 }
 
@@ -27,26 +27,26 @@ body{
 }
 .pages {
     padding: 10px 20px;
-    background-color: #b434db;
-    color: #fcf;
+    background-color: #db3434;
+    color: rgb(70, 0, 0);
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 .pages:hover {
-    background-color: #cf6ad3;
+    background-color: #db3434;
 }
 
 .github {
     padding: 10px 20px;
-    color: #fcf;
-    border: 2px solid #b434db;
+    color: rgb(70, 0, 0);
+    border: 2px solid #db3434;
     border-radius: 5px;
     cursor: pointer;
     background:none;
 }
 .github:hover {
-    border: 2px solid #cf6ad3;
+    border: 2px solid #db3434;
 }
 
 .txt{
