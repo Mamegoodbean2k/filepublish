@@ -8,7 +8,7 @@ body{
     color:#fcf;
     border: none;
 }
-.head{
+#goodbye{
     text-align: center;
     background-color: #ffff75;
     width:100%;
@@ -66,4 +66,5 @@ body, html {
     margin: 0;
     padding: 0;
 }
+
 
