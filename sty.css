@@ -8,6 +8,13 @@ body{
     color:#fcf;
     border: none;
 }
+.head{
+    text-align: center;
+    background-color: #ffff75;
+    width:100%;
+    color:#ffe;
+    border: none;
+}
 
 .project{
     background-color: #ffbaba;
@@ -59,3 +66,4 @@ body, html {
     margin: 0;
     padding: 0;
 }
+
